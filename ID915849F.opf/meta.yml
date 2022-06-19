@@ -1,0 +1,39 @@
+id: ID915849F
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:35:44.160786'
+last_modified: '2022-06-19T14:35:44.160797'
+parser: null
+source_metadata:
+  title: Hagiography of Sa chen Kun dga snying po (1092-1158); Lamdre Lobshe, vol.
+    ka, title no. 3, from the chronological biographies of the Lamdre lineage masters
+  author: རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-16);
+    converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/180
+  bases:
+    02e3:
+      title: Hagiography of Sa chen Kun dga snying po (1092-1158); Lamdre Lobshe,
+        vol. ka, title no. 3, from the chronological biographies of the Lamdre lineage
+        masters
+      order: 1
+      base_file: 02e3.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
